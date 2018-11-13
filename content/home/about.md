@@ -12,8 +12,8 @@ weight = 5
   interests = [
     "Multi-messenger & Time-domain Astrophysics",
     "Cosmology and Cosmography with Wide-Field Surveys",
-    "Data Science, Machine Learning, and Astrostatistics"
-    "Type Ia Supernovae and Explosive Transients"
+    "Data Science, Machine Learning, and Astrostatistics",
+    "Type Ia Supernovae and Explosive Transients",
   ]
 
 # List your qualifications (such as academic degrees).
