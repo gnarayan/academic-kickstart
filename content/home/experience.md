@@ -19,27 +19,30 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Lasker Data Science Fellow"
+  company = "Space Telescope Science Institute (STScI)"
+  company_url = "http://www.stsci.edu/"
+  location = "Baltimore, MD"
+  date_start = "2017-06-26"
   date_end = ""
   description = """
-  Responsibilities include:
+  Research Activities:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Rapid response followup of supernovae with KEGS
+  * Neural networks to characterize multi-messenger alert streams
+  * Bayesian models for cosmological samples of type Ia supernovae
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Postdoctoral Fellow"
+  company = "National Optical Astronomy Observatory (NOAO)"
+  company_url = "http://www.noao.edu/"
+  location = "Tucson, AZ"
+  date_start = "2013-06-01"
+  date_end = "2017-06-26"
+  Research Activities:
+  
+  * Developing the ANTARES alert broker
+  * Establishing a network of faint spectrophotometric standards
 
 +++
