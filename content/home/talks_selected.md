@@ -8,7 +8,7 @@ title = "Recent Talks"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 29
+weight = 40
 
 # List format.
 #   0 = Simple
