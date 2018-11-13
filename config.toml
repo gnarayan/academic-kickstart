@@ -67,7 +67,7 @@ enableGitInfo = false
   office_hours = ""
   phone = "+1 309 531 1810"
   skype = "gautham.narayan"
-  telegram = ""
+  telegram = "mailto:gnarayan@stsci.edu"
   keybase = ""  # Your keybase.io username.
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
@@ -254,6 +254,11 @@ enableGitInfo = false
     icon = "envelope"
     icon_pack = "fas"
     link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+
+  [[params.social]]
+    icon = "paper-plane"
+    icon_pack = "fas"
+    link = "mailto:gnarayan@stsci.edu"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "twitter"
