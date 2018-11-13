@@ -40,9 +40,10 @@ date_format = "January 2006"
   location = "Tucson, AZ"
   date_start = "2013-06-01"
   date_end = "2017-06-26"
+  description = """
   Research Activities:
   
   * Developing the ANTARES alert broker
   * Establishing a network of faint spectrophotometric standards
-
+  """
 +++
