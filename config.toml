@@ -266,6 +266,11 @@ enableGitInfo = false
     link = "https://scholar.google.com/citations?user=IdkW3f0AAAAJ&hl=en"
 
   [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "https://orcid.org/0000-0001-6022-0484"
+
+  [[params.social]]
     icon = "github"
     icon_pack = "fab"
     link = "https://github.com/gnarayan"
