@@ -10,31 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Multi-messenger & Time-domain Astrophysics",
+    "Cosmology and Cosmography with Wide-Field Surveys",
+    "Data Science, Machine Learning, and Astrostatistics"
+    "Type Ia Supernovae and Explosive Transients"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D. Physics"
+  institution = "Harvard University"
+  year = 2013
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.S. (Hons.) Physics"
+  institution = "Illinois Wesleyan University"
+  year = 2005
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Gautham Narayan is the Barry M. Lasker Data Science Fellow at STScI. His research interests lie at the intersection of multi-messenger and time-domain astrophysics, cosmology, statistics and data science. He works on wide-field surveys developing machine learning methods for real-time detection and classification of variable and transient sources, Bayesian models for cosmological inference with type Ia supernovae, and establishing an all-sky network of faint spectrophotometric standards for LSST, WFIRST and future projects (among other things).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+He is also a former organizer of Astronomy on Tap-Tucson, does podcasts, public talks, panels at sci-fi conventions (Robots! Sci-fi space battles! Gustav Holst's Planets suite and more!), volunteers with local STEM clubs, and works get people as excited about science as he is. 
+
+[header]
+  image = "header.png"
+  caption = "The Milky Way over the WIYN telescope on Kitt Peak, 2015, &copy; Gautham Narayan"
