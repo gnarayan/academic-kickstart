@@ -4,9 +4,6 @@ widget = "about"
 active = true
 date = 2016-04-20T00:00:00
 
-[header]
-  image = "header.png"
-  caption = "The Milky Way over the WIYN telescope on Kitt Peak, 2015, &copy; Gautham Narayan"
 
 # Order that this section will appear in.
 weight = 5
