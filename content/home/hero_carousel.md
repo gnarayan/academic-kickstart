@@ -9,7 +9,7 @@ weight = 30
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 5000
+interval = false 
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
@@ -19,7 +19,7 @@ height = "300px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Chasing Supernovae with Kepler, STScI Public Night"
-  content = "{{< youtube DS0FE-iJm74 >}}"
+  content = {{< youtube DS0FE-iJm74 >}}
   align = "center"
 
   #overlay_color = "#666"  # An HTML color value.
