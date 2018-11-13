@@ -1,7 +1,7 @@
 +++
 # Hero Carousel widget.
 widget = "hero_carousel"
-active = true
+active = false
 date = 2017-10-15T00:00:00
 
 # Order that this section will appear in.
@@ -19,7 +19,7 @@ height = "300px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Chasing Supernovae with Kepler, STScI Public Night"
-  content = {{< youtube DS0FE-iJm74 >}}
+  content = "{{< youtube DS0FE-iJm74 >}}"
   align = "center"
 
   #overlay_color = "#666"  # An HTML color value.
