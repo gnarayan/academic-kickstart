@@ -8,7 +8,6 @@ date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
-subtitle = "Materials for the LSST Data Science Fellowship Program"
 
 # Order that this section will appear in.
 weight = 60
@@ -24,4 +23,4 @@ I have been an instructor at the:
 * Python Workshop for NOAO/NSO REU Students, Tucson, Summer 2014 & 2015
 * Teaching Fellow/Teaching Assistant/Tutor for introductory physics and astrophysics classes, electronics, and experimental physics
 
-Please see my CV for a list of students I have mentored.
+Please see my [CV]({{< ref "static/files/GauthamNarayan_CV.pdf">}}) for a list of students I have mentored.
