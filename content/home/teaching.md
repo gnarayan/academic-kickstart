@@ -23,4 +23,4 @@ I have been an instructor at the:
 * Python Workshop for NOAO/NSO REU Students, Tucson, Summer 2014 & 2015
 * Teaching Fellow/Teaching Assistant/Tutor for introductory physics and astrophysics classes, electronics, and experimental physics
 
-Please see my [CV]({{< ref "/files/GauthamNarayan_CV.pdf">}}) for a list of students I have mentored.
+Please see my [CV](http://gnarayan.github.io/Files/GauthamNarayan_CV.pdf) for a list of students I have mentored.
