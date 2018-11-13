@@ -4,6 +4,10 @@ widget = "about"
 active = true
 date = 2016-04-20T00:00:00
 
+[header]
+  image = "header.png"
+  caption = "The Milky Way over the WIYN telescope on Kitt Peak, 2015, &copy; Gautham Narayan"
+
 # Order that this section will appear in.
 weight = 5
 
@@ -35,6 +39,3 @@ Gautham Narayan is the Barry M. Lasker Data Science Fellow at STScI. His researc
 
 He is also a former organizer of Astronomy on Tap-Tucson, does podcasts, public talks, panels at sci-fi conventions (Robots! Sci-fi space battles! Gustav Holst's Planets suite and more!), volunteers with local STEM clubs, and works get people as excited about science as he is. 
 
-[header]
-  image = "header.png"
-  caption = "The Milky Way over the WIYN telescope on Kitt Peak, 2015, &copy; Gautham Narayan"
