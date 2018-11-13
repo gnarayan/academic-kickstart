@@ -11,20 +11,20 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Multi-messenger & Time-domain Astrophysics",
-    "Cosmology and Cosmography with Wide-Field Surveys",
-    "Data Science, Machine Learning, and Astrostatistics",
-    "Type Ia Supernovae and Explosive Transients",
+    "Multi-messenger Astrophysics",
+    "Observational Cosmology",
+    "Wide-field Surveys",
+    "Data Science & AI",
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Ph.D. Physics"
+  course = "PhD Physics"
   institution = "Harvard University"
   year = 2013
 
 [[education.courses]]
-  course = "B.S. (Hons.) Physics"
+  course = "BS (Hons.) Physics"
   institution = "Illinois Wesleyan University"
   year = 2005
  
