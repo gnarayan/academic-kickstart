@@ -43,6 +43,14 @@ filter_default = 0
 [[filter]]
    name = "Deep Learning"
    tag = "Deep Learning"
+
+[[filter]]
+   name = "Multimessenger Astrophysics"
+   tag = "MMA"
+
+[[filter]]
+   name = "Wide-field Surveys"
+   tag = "Wide-field Surveys"
 #
 # [[filter]]
 #   name = "Other"
