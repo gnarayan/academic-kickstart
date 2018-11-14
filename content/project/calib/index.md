@@ -30,7 +30,7 @@ url_code = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  #focal_point = "Smart"
 +++
 
 I lead the analysis of a multi-cycle HST program to establish faint (16.5 < V < 19) DA white dwarf stars as spectrophotometric standards. I developed a [Bayesian method](http://github.com/gnarayan/WDmodel/) to coherently model spectroscopy and photometry, inferring SEDs tied to HST's CALSPEC standards. These standards are within the dynamic range of upcoming wide-field facilities, particularly JWST and WFIRST, where the CALSPEC standards will saturate detectors. Observing them will result in the most accurately measured light curves ever. This will lead to the most accurate cosmological constraints, free of systematics arising from calibration.

@@ -30,7 +30,7 @@ url_code = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  #focal_point = "Smart"
 +++
 
 I'm using techniques at the forefront of AI research to classify real-time data from wide-field surveys. My goal is to identify rare and unusual sources within these multi-messenger alert streams, as well as create pure samples of type Ia supernovae for cosmology with LSST. I use a combination of ML techniques to accomplish this including random forests, gradient boosting and much else. These days though, I'm using neural networks, particularly recurrent neural networks (RNNs) with Gated Recurrent Units (GRUs) or Long-Short Term Memory (LSTM) layers. I am working on using convolutional neural nets (CNNs) and generative adverserial networks (GANs) to move us from classifying time-series to classifying image-series. 
