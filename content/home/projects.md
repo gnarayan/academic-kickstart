@@ -45,8 +45,12 @@ filter_default = 0
    tag = "Deep Learning"
 
 [[filter]]
-   name = "Multimessenger Astrophysics"
-   tag = "MMA"
+   name = "Time-domain Astrophysics"
+   tag = "Time-domain Astrophysics"
+
+[[filter]]
+   name = "Astrostatistics"
+   tag = "Astrostatistics"
 
 [[filter]]
    name = "Wide-field Surveys"

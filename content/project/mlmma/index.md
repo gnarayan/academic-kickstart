@@ -9,7 +9,7 @@ date = 2016-04-27T00:00:00
 summary = "Using AI to classify things that go bump in the night"
 
 # Tags: can be used for filtering projects.
-tags = ["Deep Learning", "MMA"]
+tags = ["Deep Learning", "Wide-field Surveys", "Time-Domain Astrophysics"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
