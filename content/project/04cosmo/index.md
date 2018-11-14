@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Measuring w(z)"
+title = "The Equation of State of Dark Energy"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Understanding Dark Energy with Type Ia Supernovae"
+summary = "Measuring w(z) with Type Ia Supernovae"
 
 # Tags: can be used for filtering projects.
 tags = ["Wide-field Surveys", "Time-Domain Astrophysics", "Astrostatistics"]
