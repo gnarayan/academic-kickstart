@@ -64,7 +64,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "gnarayan@stsci.edu"
   address = "3700 San Martin Dr., Mueller 411D, Baltimore, MD 21218, USA"
-  office_hours = ""
+  office_hours = "gnarayan@stsci.edu"
   phone = "+1 309 531 1810"
   skype = "gautham.narayan"
   telegram = ""
