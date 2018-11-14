@@ -301,31 +301,26 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 3
-
-[[menu.main]]
   name = "Teaching"
   url = "#projects"
-  weight = 4
+  weight = 3
 
 [[menu.main]]
   name = "Talks"
   url = "#talks_selected"
-  weight = 5
+  weight = 4
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
   name = "CV"
   url = "files/GauthamNarayan_CV.pdf"
-  weight = 7
+  weight = 6
 
 # Search.
 [params.search]

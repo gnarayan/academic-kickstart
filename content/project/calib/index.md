@@ -26,7 +26,7 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "A slice through our grid of DA White Dwarf model atmosphere"
+  caption = "A slice through our grid of DA White Dwarf model atmospheres"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
