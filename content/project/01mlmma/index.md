@@ -3,7 +3,7 @@
 title = "Deep Learning for Multimessenger Astrophysics"
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2018-11-01T00:00:00
 
 # Project summary to display on homepage.
 summary = "Using AI to classify things that go bump in the night"
