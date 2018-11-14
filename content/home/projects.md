@@ -45,11 +45,11 @@ filter_default = 0
    tag = "Deep Learning"
 
 [[filter]]
-   name = "Time-domain Astrophysics"
-   tag = "Time-domain Astrophysics"
+   name = "Time-domain"
+   tag = "Time-Domain Astrophysics"
 
 [[filter]]
-   name = "Astrostatistics"
+   name = "Astrostats"
    tag = "Astrostatistics"
 
 [[filter]]
