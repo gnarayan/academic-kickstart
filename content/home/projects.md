@@ -62,3 +62,4 @@ filter_default = 0
 
 +++
 
+Please see my [CV](http://gnarayan.github.io/files/GauthamNarayan_CV.pdf) for a list of publications.
