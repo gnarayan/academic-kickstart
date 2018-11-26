@@ -3,6 +3,7 @@
 widget = "hero"
 active = true
 date = 2018-11-01T00:00:00
+height = "443px"
 
 title = "Bio"
 
