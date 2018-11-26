@@ -20,4 +20,14 @@ weight = 68
   url = "http://gnarayan.github.io/files/GauthamNarayan_CV.pdf"
   label = '<i class="fas fa-info"></i> CV'
 +++
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
