@@ -19,12 +19,29 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Assistant Professor"
+  company = "University of Illinois at Urbana-Champaign"
+  company_url = "http://astro.illinois.edu/"
+  location = "Tucson, AZ"
+  date_start = "2019-08-16"
+  date_end = ""
+  description = """
+  Research Activities:
+  
+  * Understanding the host-environments of transients
+  * Building a cross-calibrated all-sky photometric catalog
+  * The Young Supernova Experiment (YSE)
+  * Co-convenor, Supernova Working Group, Dark Energy Science Collaboration
+  * Science preparedness for the Large Synoptic Survey Telescope
+  """
+
+[[experience]]
   title = "Lasker Data Science Fellow"
   company = "Space Telescope Science Institute (STScI)"
   company_url = "http://www.stsci.edu/"
   location = "Baltimore, MD"
   date_start = "2017-06-26"
-  date_end = ""
+  date_end = "2019-08-15"
   description = """
   Research Activities:
   

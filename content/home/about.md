@@ -32,7 +32,7 @@ weight = 5
 
 # Biography
 
-Gautham Narayan is the Barry M. Lasker Data Science Fellow at STScI. His research interests lie at the intersection of multi-messenger and time-domain astrophysics, cosmology, statistics and data science. He works on wide-field surveys developing machine learning methods for real-time detection and classification of variable and transient sources, Bayesian models for cosmological inference with type Ia supernovae, and establishing an all-sky network of faint spectrophotometric standards for LSST, WFIRST and future projects.
+Gautham Narayan is an Assistant Professor at the University of Illinois, Urbana-Champaign. His research interests are at the intersection of multi-messenger and time-domain astrophysics, cosmology, statistics and data science. He works on wide-field surveys developing machine learning methods for real-time detection and classification of variable and transient sources, Bayesian models for cosmological inference with type Ia supernovae, understanding the host galaxies of transients, and establishing an all-sky network of faint spectrophotometric standards for LSST, WFIRST and future projects.
 
-He is also a former organizer of Astronomy on Tap-Tucson, does podcasts, public talks, panels at sci-fi conventions (Robots! Sci-fi space battles! Gustav Holst's Planets suite and more!), volunteers with local STEM clubs, and works get people as excited about science as he is. 
+He is one of the organizers of Astronomy on Tap, Champaign-Urbana, and a former organizer of Astronomy on Tap, Tucson, does podcasts, public talks, panels at sci-fi conventions (Robots! Sci-fi space battles! Gustav Holst's Planets suite and more!), volunteers with local STEM clubs, and works get people as excited about science as he is. 
 

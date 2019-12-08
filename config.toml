@@ -52,19 +52,19 @@ enableGitInfo = false
 
   # Your details.
   name = "Gautham Narayan"
-  role = "Lasker Data Science Fellow"
+  role = "Assistant Professor, Astronomy"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Space Telescope Science Institute", url = "http://www.stsci.edu" } ]
+  organizations = [ { name = "University of Illinois at Urbana-Champaign", url = "https://astro.illinois.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Narayan.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "gnarayan@stsci.edu"
-  address = "3700 San Martin Dr., Mueller 411D, Baltimore, MD 21218, USA"
-  office_hours = "gnarayan@stsci.edu"
+  email = "gsn@illinois.edu"
+  address = "1002 W. Green St., Urbana, IL 61701"
+  office_hours = "gsn@illinois.edu"
   phone = "+1 309 531 1810"
   skype = "gautham.narayan"
   telegram = ""
@@ -91,8 +91,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 2
   map_api_key = ""
-  latitude = "39.3326118"
-  longitude = "-76.6232259"
+  latitude = "40.110977"
+  longitude = "-88.220898"
   zoom = 15
 
   # SITE SETUP
@@ -106,7 +106,7 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = "Gautham Narayan | Lasker Data Science Fellow | STScI"
+  description = "Gautham Narayan | Professor | University of Illinois at Urbana-Champaign"
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = "Narayan.jpg"
@@ -253,7 +253,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:gnarayan@stsci.edu"  # For a direct email link, use "mailto:test@example.org".
+    link = "mailto:gsn@illinois.edu"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "twitter"
